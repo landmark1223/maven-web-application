@@ -29,7 +29,7 @@ node{
     emailext body: '''Hello Team,
 The build is done.
 
-BEAENGINEER''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'bea_omidiora@protonmail.com'
+BEAENGINEER''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'beat_omidiora@protonmail.com'
  }
 
 }
